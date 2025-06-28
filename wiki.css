@@ -1,0 +1,42 @@
+html{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    
+    margin-top:20px;
+}
+.static{
+    
+    text-align: center;
+}
+.wikiLogo{
+    width:150px;
+    margin-bottom: 30px;
+}
+.searchinp{
+    width: 80vw;
+    margin: 0px, 10px;
+    margin-bottom: 10px;
+    height: 35px;
+    border-radius: 7px;
+    border: 1px solid rgb(128, 123, 123);
+    padding-left:10px ;
+}
+.resultContainer{
+    padding: 10px;
+}
+.title{
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Roboto ,sans-serif;
+    
+}
+.link{
+    text-decoration: none;
+    color:green;
+}
+.discription{
+    margin: 0px;
+}
